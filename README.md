@@ -62,7 +62,7 @@ pip install -r requirements.txt
 1.  Ensure your virtual environment is activated.
 2.  Run the application from your terminal:
     ```bash
-    streamlit run app.py
+    streamlit run App.py
     ```
 3.  The application will open in a new browser tab.
 4.  Use the "Creative Controls" in the sidebar to set your desired genre and style.
