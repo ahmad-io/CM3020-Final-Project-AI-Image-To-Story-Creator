@@ -28,8 +28,8 @@ Follow these steps to run the application locally.
 
 **1. Clone the repository:**
 ```bash
-git clone [URL_to_your_GitHub_repository]
-cd [repository-folder-name]
+git clone https://github.com/ahmad-io/CM3020-Final-Project-AI-Image-To-Story-Creator.git
+cd CM3020-Final-Project-AI-Image-To-Story-Creator
 ```
 
 **2. Create and activate a virtual environment:**
