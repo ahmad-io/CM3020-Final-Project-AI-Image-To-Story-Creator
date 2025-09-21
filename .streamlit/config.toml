@@ -1,0 +1,17 @@
+# .streamlit/config.toml
+
+[theme]
+# A vibrant, neon cyan for our accent color.
+primaryColor="#00F2EA"
+
+# A deep, near-black background. The CSS will add texture.
+backgroundColor="#0a0a0a"
+
+# A slightly lighter dark gray for the cards and sidebar.
+secondaryBackgroundColor="#161B22"
+
+# A clean, crisp off-white for text.
+textColor="#FAFAFA"
+
+# Set the base font to arial, which our custom CSS will override with a specific one.
+font="arial"
